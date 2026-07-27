@@ -1,0 +1,6 @@
+{
+  "name": "QRTelas",
+  "description": "Escáner de telas e información textil de Nicaragua con catálogo, códigos QR y diseño móvil interactivo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
